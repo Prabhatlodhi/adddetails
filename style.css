@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+ 
+ #row1 > td, th {
+  width: 24vw;
+  height: 45px;
+  /* border: 1px solid red; */
+  background-color: greenyellow;
+  text-align: center;
+  border-spacing: 10px;
+  border-radius: 5px;
+}
+
+#submitbutton{
+ width: 30%;
+ height: 45px;
+}
+
+#row2 td {
+  font-weight: bold;
+}
+
+
+#tablemain tr td {
+  background-color: rgb(247, 255, 235);
+  text-align: center;
+}
+
+.tdf {
+  width: 24vw;
+  height: 45px;
+  /* border: 1px solid red; */
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border-spacing: 10px;
+  border-radius: 5px;
+}
+
+input {
+  width: 90%;
+  height: 80%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.tablesec {
+  margin-top: 2%;
+}
+
+#Middle {
+  margin: 10px auto;
+  text-align: center;
+  color: red;
+}
+
+ 
